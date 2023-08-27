@@ -1,0 +1,25 @@
+.logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: -1100px;
+    
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    padding: 5px 10px;
+    margin-left: 100px;
+    margin-right: 200px;
+    justify-content:left;
+    align-items: left;
+    text-decoration: none;
+}
+
+.footer-list{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+}
